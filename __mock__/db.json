@@ -1,0 +1,19 @@
+{
+  "subjects": {
+    "list": [
+      {
+        "id": 1,
+        "title": "html"
+      },
+      {
+        "id": 2,
+        "title": "css"
+      },
+      {
+        "id": 3,
+        "title": "js"
+      }
+    ],
+    "code": 200
+  }
+}
