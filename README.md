@@ -1,11 +1,4 @@
----
-title: React + Redux + Typescript + Axios 通用配置
-date: 2022-01-23 12:38:43
-tags: [react]
-copyright: true
----
-
-本文主要包括以下内容配置
+仓库内容主要包括以下内容的配置过程
 
 - creat-react-app 创建项目
 - 配置 redux
